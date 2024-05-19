@@ -7,6 +7,4 @@ To install follow these instructions:
 2) Delete the existing build file and replace it with the given one
 
 
-You can also access the web folder if you wish to edit the redesign.
-
-If you need support regarding this join: https://discord.gg/USg9Wb5tUP
+You can also access the web folder to edit the redesign.
